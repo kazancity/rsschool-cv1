@@ -19,3 +19,23 @@ I study FE Pre-School 2022 Stage 0 in RSSchool
 - CSS
 - JS
 - VBS
+
+**Code Example on JS**
+```
+function myFunction02()
+{
+  var input = document.createElement("textarea");
+  input.value = document.getElementById('btn02').innerText;
+  input.id = 'inputID';
+  document.body.appendChild(input);
+  input.select();
+  document.execCommand('copy');
+  document.body.removeChild(input);
+  document.getElementById('btn02').textContent = "Copied!";
+  setTimeout(timerFunction, 400);
+  function timerFunction() 
+    {
+      document.getElementById('btn02').textContent = "Department of Internal Affairs of the Kirovsky district of the city of Kazan";
+    }
+}
+```
