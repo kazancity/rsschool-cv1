@@ -39,3 +39,17 @@ function myFunction01()
    }
 }
 ```
+
+**Projects**
+- CV (https://github.com/kazancity/rsschool-cv)
+
+**Experience**
+- 19 years System Administration
+
+**Education**
+- Kazan National Research Technical University named after A. N. Tupolev – KAI 
+    + Specialty: Automated information processing and control systems
+- Institute of Civil Service under the President of the Republic of Tatarstan
+    + Specialty: State and municipal administration
+- Courses
+    + Online Courses JavaRush (https://javarush.ru/quests/lectures)
