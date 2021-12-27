@@ -53,3 +53,7 @@ function myFunction01()
     + Specialty: State and municipal administration
 - Courses
     + Online Courses JavaRush (https://javarush.ru/quests/lectures)
+    
+**Languages**
+- English - Level A2
+- Russian - Native
