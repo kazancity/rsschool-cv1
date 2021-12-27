@@ -22,7 +22,7 @@ I study FE Pre-School 2022 Stage 0 in RSSchool
 
 **Code Example on JS**
 ```
-function myFunction02()
+function myFunction01()
 {
   var input = document.createElement("textarea");
   input.value = document.getElementById('btn02').innerText;
