@@ -4,11 +4,10 @@
 	<meta charset="UTF-8">
 	<title>CV - Artem Banderov</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="CV в HTML и CSS">
         <link href=".\style.css" rel="stylesheet">
 </head>
-
 <body>
 <button onclick=myFunction01() id=btn01 class=myStyle01>CV - Artem Banderov</button>
 <p>
@@ -27,7 +26,7 @@ function myFunction01()
   document.body.removeChild(input);
   document.getElementById('btn01').textContent = "Copied!";
   setTimeout(timerFunction, 400);
-  function timerFunction() 
+  function timerFunction()
     {
       document.getElementById('btn01').textContent = "CV - Artem Banderov";
     }
